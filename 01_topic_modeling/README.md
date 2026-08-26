@@ -8,18 +8,18 @@ The template includes three complementary methods:
 
 How to Use
 Open topic_modeling_template.py and edit the USER CONFIGURATION section:
-  DATA_PATH = "YOUR_LOCAL_DATA_PATH.csv"
-  TEXT_COLUMN = "text"
-  GROUP_COLUMN = None
-  N_TOPICS = 7
+  DATA_PATH = "YOUR_LOCAL_DATA_PATH.csv", 
+  TEXT_COLUMN = "text", 
+  GROUP_COLUMN = None, 
+  N_TOPICS = 7.
 The script provides documented steps for:
-  data validation and cleaning
-  text preprocessing
-  topic modeling
-  topic-number comparison
-  topic prevalence
-  optional group comparisons
-  exporting results
+  data validation and cleaning, 
+  text preprocessing, 
+  topic modeling, 
+  topic-number comparison, 
+  topic prevalence, 
+  optional group comparisons, 
+  exporting results.
 
 Data & Privacy
 Do not upload restricted, confidential, personal, or non-redistributable research data to this repository.
