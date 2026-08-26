@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local research data
+data/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Local analysis outputs
+topic_modeling_results/
+results/
+outputs/
+
+# Operating system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
